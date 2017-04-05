@@ -1,0 +1,32 @@
+﻿body{
+	background-color:green;
+}
+
+a{
+	display:block;
+}
+
+#mn1{
+	border:3px double red;
+}
+
+p{
+	margin:50px 350px 20px 20px;
+	padding:20px 50px 10px 100px;
+	text-align:justify;
+	border:1px solid red;
+}
+/*
+ol, ul{
+	color:red;
+}
+*/
+ul li{
+	color:red;
+}
+div#menu{
+	width:200px;
+	background-color:blue;
+	margin:50px auto;
+	padding-left:50px;
+}
